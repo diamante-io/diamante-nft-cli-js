@@ -7,8 +7,8 @@ This project provides a command-line interface (CLI) to create Non-Fungible Toke
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository-url>
-    cd diamante-nft-cli
+    git clone https://github.com/diamcircle/diamante-nft-cli-js.git
+    cd diamante-nft-cli-js
     ```
 
 2. **Install Dependencies:**
